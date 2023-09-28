@@ -1,3 +1,8 @@
 # algebraist
  vector spaces, matrices, and linear transformations
- me here
+ 
+
+ # Forkflow
+ . ARENA.*instruction.*Reading
+ . write code
+ 
